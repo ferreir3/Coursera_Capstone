@@ -1,4 +1,12 @@
 
+####################### INSTRUCTIONS TO RUNTHIS SCRIPT ###################
+""
+1. Opena terminal window
+2. run the folowinf command
+./week3_spacex_dash_app.py
+3. GO to the url adress inticated at the end of the text promt
+""
+
 # lets install pandas dash
 #pip install pandas dash
 
@@ -141,8 +149,8 @@ def get_scatter_plot(entered_site,selected_payload):
 
 # Run the app
 if __name__ == '__main__':
-    #app.run_server()
-    app.run_server(debug=True)
+    app.run_server()
+    #app.run_server(debug=True)
     # http://127.0.0.1:8050/
     #app.run_server(port=8050)
     #app.run_server(port=8050,debug=True)
