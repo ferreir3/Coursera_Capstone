@@ -1,11 +1,12 @@
 
 ####################### INSTRUCTIONS TO RUNTHIS SCRIPT ###################
-""
+"""
 1. Opena terminal window
 2. run the folowinf command
 ./week3_spacex_dash_app.py
 3. GO to the url adress inticated at the end of the text promt
-""
+"""
+########################################################################
 
 # lets install pandas dash
 #pip install pandas dash
